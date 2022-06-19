@@ -1,2 +1,2 @@
-# pop-recommendations
+# GoodReads
 Created with CodeSandbox
